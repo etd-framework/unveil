@@ -1,0 +1,15 @@
+{
+  "name": "etdsolutions/unveil",
+  "description": "Shim repository for Unveil",
+  "homepage": "http://luis-almeida.github.io/unveil/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luis Almeida",
+      "homepage": "http://luis-almeida.github.io"
+    }
+  ],
+  "require": {
+    "etdsolutions/jquery": "*"
+  }
+}
